@@ -1,0 +1,8 @@
+#gauge1{
+  background-image: url("res/img/pointer.png");
+  background-repeat: no-repeat;
+}
+
+img{  
+  transform: rotate(90deg);
+}
